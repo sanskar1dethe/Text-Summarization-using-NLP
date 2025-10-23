@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/sanskar1dethe/Text-Summarization-using-NLP
+Author: sanskar1dethe
+Author-email: sanskar.dethe.20033@iitgoa.ac.in
+Project-URL: Bug Tracker, https://github.com/sanskar1dethe/Text-Summarization-using-NLP/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Text-Summarization-using-NLP
