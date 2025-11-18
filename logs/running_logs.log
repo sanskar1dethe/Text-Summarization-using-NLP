@@ -1,0 +1,15 @@
+[2025-10-24 18:07:26,677: INFO: main: HI,welcome to our custom log]
+[2025-11-18 22:55:10,540: INFO: main: >>>>>>> Data Ingestion stage started <<<<<<<<]
+[2025-11-18 22:55:10,542: ERROR: main: DataIngestionTrainingPipeline.main() takes 0 positional arguments but 1 was given]
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\source code\Ttext summarizattion agen using nlp\Text-Summarization-using-NLP\main.py", line 9, in <module>
+    data_ingestion.main()
+    ~~~~~~~~~~~~~~~~~~~^^
+TypeError: DataIngestionTrainingPipeline.main() takes 0 positional arguments but 1 was given
+[2025-11-18 22:56:53,684: INFO: main: >>>>>>> Data Ingestion stage started <<<<<<<<]
+[2025-11-18 22:56:53,700: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-11-18 22:56:53,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-11-18 22:56:53,711: INFO: common: created directory at: artifacts]
+[2025-11-18 22:56:53,711: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-18 22:56:53,711: INFO: data_ingestion: File already exists of size: ~ 8181 KB]
+[2025-11-18 22:56:53,860: INFO: main: >>>>>>> Data Ingestion stage ended <<<<<<<]
